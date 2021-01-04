@@ -1,1 +1,1 @@
-React-Redux tutorial.
+React-Redux tutorial creating counter.
